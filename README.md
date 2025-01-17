@@ -4,4 +4,4 @@
 
 Para ejecutar el sistema ingresa:
 
-´´´npm: ejecutar´´´
+```npm: ejecutar```
